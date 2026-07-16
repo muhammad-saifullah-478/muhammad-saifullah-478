@@ -108,12 +108,7 @@ Full-Stack MERN Developer | AI-Powered Web Solutions 🚀
 
 ---
 
-# 🐍 Contribution Snake
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Muhammad-saifullah-478/Muhammad-saifullah-478/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 ---
 
