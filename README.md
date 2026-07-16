@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saifullah</h1>
 
 <h3 align="center">
-Full-Stack MERN Developer | Next.js Developer | AI-Powered Web Solutions 🚀
+Full-Stack MERN Developer | AI-Powered Web Solutions 🚀
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Full-Stack MERN Developer | Next.js Developer | AI-Powered Web Solutions 🚀
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💻 Full-Stack Developer specializing in **MERN Stack & Next.js**
-- 🌱 Currently learning **Advanced Next.js, .NET & Cloud Technologies**
+- 🌱 Currently learning **Advanced AI Automation**
 - 🤖 Experienced with **AI-assisted development workflows**
 - 🔐 Skilled in **JWT Authentication, REST APIs & Secure Backend Development**
 - ⚡ Passionate about building scalable, responsive, production-ready web applications.
@@ -110,20 +110,9 @@ Full-Stack MERN Developer | Next.js Developer | AI-Powered Web Solutions 🚀
 
 # 🐍 Contribution Snake
 
-<p align="center">
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/Muhammad-saifullah-478/Muhammad-saifullah-478/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-saifullah-478&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 ---
