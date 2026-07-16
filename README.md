@@ -1,30 +1,169 @@
-# 💫 About Me:
-#💫I'm Currently Working on Web Development<br>I'm Currently Learning React js and node js
+<h1 align="center">Hi 👋, I'm Muhammad Saifullah</h1>
 
-# 📞 Contact Me
+<h3 align="center">
+Full-Stack MERN Developer | Next.js Developer | AI-Powered Web Solutions 🚀
+</h3>
 
-Thank you for visiting! Feel free to reach out to me via any of the following platforms:
-
-- 📧 **Email**: [infosaifdeveloper@gmail.com](mailto:infosaifdeveloper@gmail.com) 
-
-💡 _Let's connect and build something amazing together!_
-
-
-## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsaifullah4/)
-
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-saifullah-478&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammad-saifullah-478&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muhammad-saifullah-478&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-saifullah-478&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Next.js+Developer;TypeScript+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammad-saifullah-478&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 💻 Full-Stack Developer specializing in **MERN Stack & Next.js**
+- 🌱 Currently learning **Advanced Next.js, .NET & Cloud Technologies**
+- 🤖 Experienced with **AI-assisted development workflows**
+- 🔐 Skilled in **JWT Authentication, REST APIs & Secure Backend Development**
+- ⚡ Passionate about building scalable, responsive, production-ready web applications.
+- 💬 Ask me about **React, Next.js, Node.js, Express.js, MongoDB & TypeScript**
+- 📫 Reach me at **infosaifdeveloper@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammadsaifullah4/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:infosaifdeveloper@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Muhammad-saifullah-478">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+</p>
+
+### AI Coding Tools
+
+<p>
+
+🤖 ChatGPT &nbsp;&nbsp;
+⚡ GitHub Copilot &nbsp;&nbsp;
+🧠 Claude AI &nbsp;&nbsp;
+💎 Gemini AI &nbsp;&nbsp;
+🚀 Cursor AI &nbsp;&nbsp;
+💻 Windsurf AI &nbsp;&nbsp;
+🔍 DeepSeek
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Muhammad-saifullah-478&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-saifullah-478&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-saifullah-478&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-saifullah-478&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+[![Saifullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-saifullah-478&theme=tokyo-night)](https://github.com/Muhammad-saifullah-478)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Muhammad-saifullah-478/Muhammad-saifullah-478/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-saifullah-478&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+### Full-Stack Developer
+
+**7+ Years of Experience**
+
+✔ React.js & Next.js Development
+
+✔ Node.js & Express.js Backend
+
+✔ TypeScript Development
+
+✔ REST API Development
+
+✔ JWT Authentication
+
+✔ MongoDB Database Design
+
+✔ Performance Optimization
+
+✔ Responsive UI Development
+
+✔ AI-Powered Development Workflow
+
+✔ Production Deployment
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+
+</p>
