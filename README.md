@@ -35,7 +35,7 @@ Full-Stack MERN Developer | AI-Powered Web Solutions 🚀
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="YOUR_FACEBOOK_PROFILE_LINK" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61578197900486" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook" width="48" height="48" />
   </a>
 </p>
