@@ -75,37 +75,6 @@ Full-Stack MERN Developer | AI-Powered Web Solutions 🚀
 🔍 DeepSeek
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-saifullah-478&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-saifullah-478&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-saifullah-478&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-saifullah-478&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-[![Saifullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-saifullah-478&theme=tokyo-night)](https://github.com/Muhammad-saifullah-478)
-
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
