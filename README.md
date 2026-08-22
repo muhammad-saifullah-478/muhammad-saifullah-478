@@ -106,42 +106,6 @@ Full-Stack MERN Developer | AI-Powered Web Solutions 🚀
 
 [![Saifullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-saifullah-478&theme=tokyo-night)](https://github.com/Muhammad-saifullah-478)
 
----
-
-
-
----
-
-# 💼 Experience
-
-### Full-Stack Developer
-
-**7+ Years of Experience**
-
-✔ React.js & Next.js Development
-
-✔ Node.js & Express.js Backend
-
-✔ TypeScript Development
-
-✔ REST API Development
-
-✔ JWT Authentication
-
-✔ MongoDB Database Design
-
-✔ Performance Optimization
-
-✔ Responsive UI Development
-
-✔ AI-Powered Development Workflow
-
-✔ Production Deployment
-
----
-
-<h3 align="center">
-
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
